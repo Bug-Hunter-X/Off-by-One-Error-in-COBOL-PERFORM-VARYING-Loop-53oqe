@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in COBOL's PERFORM VARYING loop construct. The example showcases an off-by-one error, where the loop iterates one time less than intended, leading to unexpected results.  The solution demonstrates the correct implementation of the loop condition to resolve the issue.
